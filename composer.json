@@ -1,0 +1,9 @@
+{
+    "name": "kipras/codeigniter-database-standalone",
+    "description": "Use the Database Library separately from CodeIgniter 2",
+    "homepage": "https://github.com/kipras/codeigniter-database-standalone",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.1.6"
+    }
+}
